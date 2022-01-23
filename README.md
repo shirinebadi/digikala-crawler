@@ -1,4 +1,4 @@
-# digikala-crawler
+# Digikala Crawler
 A crawler developed by Scrapy to crawl products information(category, name, id, rates, image and price) and also comments of whole categories.
 
 # Run the Crawler
